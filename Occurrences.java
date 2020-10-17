@@ -8,9 +8,9 @@ public class Occurrences {
 	
 	public Occurrences(String day, String startTime, String endTime)
 	{
-		this.day=day;
-		this.endTime=endTime;
-		this.startTime=startTime;
+		this.day = day;
+		this.endTime = endTime;
+		this.startTime = startTime;
 	}
 	
 }

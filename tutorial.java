@@ -11,10 +11,10 @@ public class Tutorial {
 	public Tutorial(int tutorialNum, int capacity, int seatsFilled,
 			String instructor, Occurrences[] occurases)
 	{
-	   this.tutorialNum=tutorialNum;
-	   this.seats=capacity;
-	   this.instructor=instructor;
-	   this.occurances=occurances;
-	   this.seatsFilled=seatsFilled;
+	   this.tutorialNum = tutorialNum;
+	   this.seats = capacity;
+	   this.instructor = instructor;
+	   this.occurances = occurances;
+	   this.seatsFilled = seatsFilled;
 	}
 }

@@ -1,17 +1,18 @@
 import java.util.*;
-public class student {
-    Vector <course>courseList;
+
+public class Student {
+    Vector <Course>courseList;
 
     public student(){
-        courseList = new Vector<course>();
+        courseList = new Vector<Course>();
     }
-    public void addCourse(course c){
+    public void addCourse(Course c){
         courseList.append(c);
     }
-    public void availableCourse (course c){
+    public void availableCourse (Course c){
         c.availableCourse();
     }
-    public void viewCourse(course c) {
+    public void viewCourse(Course c) {
         c.viewAllCourses();;
     }
 }
