@@ -6,10 +6,10 @@ public class Tutorial {
 	private int seats;
 	private int seatsFilled;
 	private String instructor;
-	private Occurance[] occurances;
+	private Occurrences[] occurances;
 	
 	public Tutorial(int tutorialNum, int capacity, int seatsFilled,
-			String instructor, Occurance[] occurases)
+			String instructor, Occurrences[] occurases)
 	{
 	   this.tutorialNum=tutorialNum;
 	   this.seats=capacity;
