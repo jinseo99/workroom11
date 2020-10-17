@@ -1,0 +1,1727 @@
+{
+  "Courses": [
+    {
+      "courseName": "CHEM 202",
+      "title": "Chemistry Methodology",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Walter White",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "15:00",
+              "endTime": "17:00"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "15:00",
+              "endTime": "17:00"
+            },
+            {
+              "day": "Friday",
+              "startTime": "11:00",
+              "endTime": "12:00"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Heisenberg",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:00",
+              "endTime": "18:00"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "15:00",
+              "endTime": "18:00"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "G. Fring",
+          "seats": 66,
+          "seatsFilled": 40,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "J. Pinkman",
+          "seats": 66,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "J. Pinkman",
+          "seats": 68,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ASTR 211",
+      "title": "Fundamentals of Astronomy",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 99,
+          "seatsFilled": 75,
+          "instructor": "Galileo Galilei",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Stephen Hawking",
+          "seats": 33,
+          "seatsFilled": 32,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "9:00",
+              "endTime": "9:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Neil Degrasse Tyson",
+          "seats": 33,
+          "seatsFilled": 25,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "15:00",
+              "endTime": "15:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "Neil Degrasse Tyson",
+          "seats": 33,
+          "seatsFilled": 18,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "POLI 776",
+      "title": "American Political Systems",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 90,
+          "seatsFilled": 10,
+          "instructor": "Donald Trump",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "8:00",
+              "endTime": "9:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "9:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Joe Biden",
+          "seats": 90,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Nancy Pelosi",
+          "seats": 90,
+          "seatsFilled": 75,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "18:00",
+              "endTime": "18:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Mitch McConnell",
+          "seats": 90,
+          "seatsFilled": 15,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "MATH 275",
+      "title": "Calculus for Winners",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Yuri Elsabeauty",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Yuri Elsabeauty",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "12:00",
+              "endTime": "12:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "12:00",
+              "endTime": "12:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "12:00",
+              "endTime": "12:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Brian Dadilton",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "10:00",
+              "endTime": "11:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "10:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3,
+          "instructor": "Brian Dadilton",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "13:00",
+              "endTime": "14:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "13:00",
+              "endTime": "14:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+      ]
+    },
+    {
+      "courseName": "ARKY 201",
+      "title": "Introduction to Archeology",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Indiana Jones",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "16:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3,
+          "seats": 100,
+          "seatsFilled": 50,
+          "instructor": "Indiana Jones",
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "13:00",
+              "endTime": "16:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Lara Croft",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "16:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Lara Croft",
+          "seats": 100,
+          "seatsFilled": 40,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Lara Croft",
+          "seats": 100,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "Indiana Jones",
+          "seats": 100,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ZOOL 331",
+      "title": "Monke Studies",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 100,
+          "instructor": "Nim Chimpsky",
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:00",
+              "endTime": "17:00"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "15:00",
+              "endTime": "17:00"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Harambe",
+          "seats": 100,
+          "seatsFilled": 0,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:00",
+              "endTime": "18:00"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "15:00",
+              "endTime": "18:00"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Embra C.E. Monke",
+          "seats": 100,
+          "seatsFilled": 40,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "18:00",
+              "endTime": "19:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Embra C.E. Monke",
+          "seats": 100,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "19:00",
+              "endTime": "19:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "DOGE 480",
+      "title": "Advanced Dogelore",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 200,
+          "seatsFilled": 80,
+          "instructor": "Archibald Cheems",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "12:00",
+              "endTime": "12:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "12:00",
+              "endTime": "12:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Kabosu Inu",
+          "seats": 50,
+          "seatsFilled": 20,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Chad Swoledoge",
+          "seats": 50,
+          "seatsFilled": 20,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "Charles Shibe",
+          "seats": 50,
+          "seatsFilled": 20,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 4,
+          "instructor": "Chad Swoledoge",
+          "seats": 50,
+          "seatsFilled": 20,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ENSF 490",
+      "title": "Software Design",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Solvma Glitches",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Solvma Glitches",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Barold Bytes",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Barold Bytes",
+          "seats": 100,
+          "seatsFilled": 70,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "CPSC 379",
+      "title": "Advanced Computer Science",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 100,
+          "seatsFilled": 70,
+          "instructor": "Alan Turing",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Grace Hopper",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Alan Turing",
+          "seats": 66,
+          "seatsFilled": 40,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Grace Hopper",
+          "seats": 66,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "15:00",
+              "endTime": "15:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "Alan Turing",
+          "seats": 68,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ENGG 202",
+      "title": "Statics",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 90,
+          "seatsFilled": 70,
+          "instructor": "Markus Dann",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "15:00",
+              "endTime": "15:50"
+            },
+            {
+              "day": "Wednesday",
+              "startTime": "15:00",
+              "endTime": "15:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "15:00",
+              "endTime": "15:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Jennifer He",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "13:45",
+              "endTime": "14:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "13:45",
+              "endTime": "14:50"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3,
+          "instructor": "Michael John Collins",
+          "seats": 100,
+          "seatsFilled": 97,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "8:45",
+              "endTime": "9:50"
+            },
+            {
+              "day": "Thursday",
+              "startTime": "8:45",
+              "endTime": "9:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Ahmad Ghasemloonia",
+          "seats": 66,
+          "seatsFilled": 40,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 2,
+          "instructor": "Ahmad Ghasemloonia",
+          "seats": 66,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+        {
+          "tutorialNumber": 3,
+          "instructor": "Ahmad Ghasemloonia",
+          "seats": 68,
+          "seatsFilled": 55,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ENGG 233",
+      "title": "Computing For Engineers",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 200,
+          "seatsFilled": 180,
+          "instructor": "Erfan Aghaeekiasaraee",
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2,
+          "instructor": "Steve Liang",
+          "seats": 200,
+          "seatsFilled": 175,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            }
+          ]
+        },
+				{
+          "sectionNumber": 3,
+          "instructor": "Mohammad Moshirpour",
+          "seats": 200,
+          "seatsFilled": 190,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "12:30",
+              "endTime": "13:45"
+            }
+          ]
+        },
+				{
+          "sectionNumber": 4,
+          "instructor": "Xin Wang",
+          "seats": 200,
+          "seatsFilled": 170,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "12:30",
+              "endTime": "13:45"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Erfan Aghaeekiasaraee",
+          "seats": 200,
+          "seatsFilled": 140,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "9:30",
+              "endTime": "11:20"
+            }
+          ]
+        },
+				{
+          "tutorialNumber": 2,
+          "instructor": "Steve Liang",
+          "seats": 200,
+          "seatsFilled": 170,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "15:00",
+              "endTime": "16:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 3,
+          "instructor": "Mohammad Moshirpour",
+          "seats": 200,
+          "seatsFilled": 180,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "15:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 4,
+          "instructor": "Xin Wang",
+          "seats": 200,
+          "seatsFilled": 150,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "12:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "courseName": "PHIL 201",
+      "title": "Mind, Matter and God",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 500,
+          "seatsFilled": 450,
+          "instructor": "Marc Ereshefsky",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Marc Ereshefsky",
+          "seats": 125,
+          "seatsFilled": 100,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        },
+				{
+          "tutorialNumber": 2,
+          "instructor": "Marc Ereshefsky",
+          "seats": 125,
+          "seatsFilled": 60,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 3,
+          "instructor": "Marc Ereshefsky",
+          "seats": 125,
+          "seatsFilled": 30,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "9:00",
+              "endTime": "9:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 4,
+          "instructor": "Marc Ereshefsky",
+          "seats": 125,
+          "seatsFilled": 125,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ECON 209",
+      "title": "Engineering Economics",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 400,
+          "seatsFilled": 380,
+          "instructor": "Heidi Esau",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Phuong Hue Trin Ha",
+          "seats": 200,
+          "seatsFilled": 140,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "18:30",
+              "endTime": "19:20"
+            }
+          ]
+        },
+				{
+          "tutorialNumber": 2,
+          "instructor": "Phuong Hue Trin Ha",
+          "seats": 200,
+          "seatsFilled": 170,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "18:30",
+              "endTime": "19:20"
+            }
+          ]
+				}
+      ]
+    },
+    {
+      "courseName": "CPSC 217",
+      "title": "Introduction to Computer Science for Multidisciplinary Studies I",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "instructor": "Jonathan Hudson",
+          "seats": 250,
+          "seatsFilled": 240,
+          "occurrences": [
+					  {
+              "day": "Monday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+        },
+				{
+          "sectionNumber": 2,
+          "instructor": "Jonathan Hudson",
+          "seats": 250,
+          "seatsFilled": 200,
+          "occurrences": [
+					  {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+				}
+      ],
+      "tutorialSections": [
+				{
+          "tutorialNumber": 1,
+          "instructor": "Xi Wang",
+          "seats": 100,
+          "seatsFilled": 60,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 2,
+          "instructor": "Xi Wang",
+          "seats": 100,
+          "seatsFilled": 70,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+				},
+				{
+				  "tutorialNumber": 3,
+          "instructor": "Xi Wang",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 4,
+          "instructor": "Xi Wang",
+          "seats": 100,
+          "seatsFilled": 100,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "10:00",
+              "endTime": "10:50"
+            }
+          ]
+				}
+      ]
+    },
+    {
+      "courseName": "ENGG 481",
+      "title": "Technology and Society",
+      "lectureSections": [
+       {
+          "sectionNumber": 1,
+          "instructor": "Deanna Burgart",
+          "seats": 500,
+          "seatsFilled": 480,
+          "occurrences": [
+					  {
+              "day": "Monday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+				{
+          "tutorialNumber": 1,
+          "instructor": "Deanna Burgart",
+          "seats": 100,
+          "seatsFilled": 60,
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 2,
+          "instructor": "Deanna Burgart",
+          "seats": 100,
+          "seatsFilled": 100,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 3,
+          "instructor": "Deanna Burgart",
+          "seats": 100,
+          "seatsFilled": 80,
+          "occurrences": [
+            {
+              "day": "Wednesday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 4,
+          "instructor": "Deanna Burgart",
+          "seats": 100,
+          "seatsFilled": 78,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 5,
+          "instructor": "Deanna Burgart",
+          "seats": 100,
+          "seatsFilled": 0,
+          "occurrences": [
+            {
+              "day": "Friday",
+              "startTime": "17:00",
+              "endTime": "18:15"
+            }
+          ]
+				}
+      ]
+    },
+    {
+      "courseName": "ENSF 337",
+      "title": " Programming Fundamentals for Software and Computer",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "instructor": "Mahmood Moussavi",
+          "seats": 300,
+          "seatsFilled": 299,
+          "occurrences": [
+					  {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+            {
+              "day": "Friday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+				{
+          "tutorialNumber": 1,
+          "instructor": "Mahmood Moussavi",
+          "seats": 100,
+          "seatsFilled": 99,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "15:30",
+              "endTime": "16:45"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 2,
+          "instructor": "Mahmood Moussavi",
+          "seats": 100,
+          "seatsFilled": 100,
+          "occurrences": [
+						{
+              "day": "Thursday",
+              "startTime": "14:00",
+              "endTime": "15:15"
+            }
+          ]
+				},
+				{
+				  "tutorialNumber": 3,
+          "instructor": "Mahmood Moussavi",
+          "seats": 100,
+          "seatsFilled": 100,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "11:00",
+              "endTime": "12:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 4,
+          "instructor": "Mahmood Moussavi",
+          "seats": 100,
+          "seatsFilled": 100,
+          "occurrences": [
+						{
+              "day": "Friday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            }
+          ]
+				}
+      ]
+    },
+{
+      "courseName": "PHYS 259",
+      "title": " Electricity and Magnetism",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 250,
+          "seatsFilled": 230,
+          "instructor": "Sean Stotyn",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "17:00",
+              "endTime": "17:50"
+            }
+          ]
+        },
+                {
+          "sectionNumber": 2,
+          "seats": 250,
+          "seatsFilled": 250,
+          "instructor": "Anna Harlick",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "14:00",
+              "endTime": "14:50"
+            },
+						{
+              "day": "Monday",
+              "startTime": "17:00",
+              "endTime": "17:50"
+            }
+          ]
+        },
+				        {
+          "sectionNumber": 3,
+          "seats": 250,
+          "seatsFilled": 189,
+          "instructor": "Timothy Friesen",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "9:00",
+              "endTime": "9:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "9:00",
+              "endTime": "9:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "9:00",
+              "endTime": "9:50"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        },
+			  {
+          "sectionNumber": 4,
+          "seats": 250,
+          "seatsFilled": 130,
+          "instructor": "Daniel Oblak",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "16:00",
+              "endTime": "16:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+      ]
+    },
+    {
+      "courseName": "ENEL 353",
+      "title": "Digital Circuits",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 180,
+          "seatsFilled": 175,
+          "instructor": "Norm Bartley",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "8:50"
+            }
+          ]
+        },
+				{
+          "sectionNumber": 2,
+          "seats": 180,
+          "seatsFilled": 170,
+          "instructor": "Steve A. Norman",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "11:00",
+              "endTime": "11:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Norm Bartley",
+          "seats": 180,
+          "seatsFilled": 145,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:30",
+              "endTime": "16:20"
+            }
+          ]
+        },
+				{
+          "tutorialNumber": 2,
+          "instructor": "Steve A. Norman",
+          "seats": 200,
+          "seatsFilled": 170,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:30",
+              "endTime": "16:20"
+            }
+          ]
+				}
+      ]
+    },
+    {
+      "courseName": "ENEL 353",
+      "title": "Digital Circuits",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "seats": 250,
+          "seatsFilled": 231,
+          "instructor": "Steve A. Norman",
+          "occurrences": [
+            {
+              "day": "Monday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Wednesday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            },
+						{
+              "day": "Friday",
+              "startTime": "13:00",
+              "endTime": "13:50"
+            }
+          ]
+        }
+      ],
+      "tutorialSections": [
+        {
+          "tutorialNumber": 1,
+          "instructor": "Steve A. Norman",
+          "seats": 250,
+          "seatsFilled": 231,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "15:30",
+              "endTime": "16:20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "courseName": "ENGG 201",
+      "title": "Behaviour Of Liquids Gases & Soli",
+      "lectureSections": [
+        {
+          "sectionNumber": 1,
+          "instructor": "Kimberly Johnston",
+          "seats": 300,
+          "seatsFilled": 240,
+          "occurrences": [
+					  {
+              "day": "Tuesday",
+              "startTime": "9:30",
+              "endTime": "10:45"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "9:30",
+              "endTime": "10:45"
+            }
+          ]
+        },
+				{
+          "sectionNumber": 2,
+          "instructor": "Kazi Sumon",
+          "seats": 250,
+          "seatsFilled": 247,
+          "occurrences": [
+					  {
+              "day": "Tuesday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            },
+						{
+              "day": "Thursday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            }
+          ]
+				},
+				{
+          "sectionNumber": 3,
+          "instructor": "Kimberly Johnston",
+          "seats": 250,
+          "seatsFilled": 230,
+          "occurrences": [
+					  {
+              "day": "Wednesday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            },
+						{
+              "day": "Friday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            }
+          ]
+				}
+      ],
+      "tutorialSections": [
+				{
+          "tutorialNumber": 1,
+          "instructor": "Kimberly Johnston",
+          "seats": 250,
+          "seatsFilled": 145,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "8:00",
+              "endTime": "9:15"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 2,
+          "instructor": "Kazi Sumon",
+          "seats": 250,
+          "seatsFilled": 145,
+          "occurrences": [
+            {
+              "day": "Thursday",
+              "startTime": "15:30",
+              "endTime": "16:45"
+            }
+          ]
+				},
+				{
+          "tutorialNumber": 3,
+          "instructor": "Kimberly Johnston",
+          "seats": 250,
+          "seatsFilled": 145,
+          "occurrences": [
+            {
+              "day": "Tuesday",
+              "startTime": "15:30",
+              "endTime": "16:45"
+            }
+          ]
+				}
+      ]
+    } 		
+  ]
+}
