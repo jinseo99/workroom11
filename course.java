@@ -1,25 +1,25 @@
 public class course {
     private String courseName;
     private String title;
-    private lecture [] lectureList;
-    private tutorial [] tutorialList;
+    private Lecture [] lectureList;
+    private Tutorial [] tutorialList;
 
-    public course(String courseName, String title, lecture[] lectureList, tutorial[]tutorialList)
+    public Course(String courseName, String title, Lecture[] lectureList, Tutorial[]tutorialList)
     {
         this.courseName = courseName;
         this.title = title;
-        this.lectureList = new lecture[lectureList.length];
+        this.lectureList = new Lecture[lectureList.length];
         for (int i = 0; i<lectureList.length; i++){
             this.lectureList[i] =
              new lecture();
         }
 
-        this.tutorialList = new tutorial[tutorialList.length];
+        this.tutorialList = new Tutorial[tutorialList.length];
         for (int i = 0; i<tutorialList.length; i++){
-            this.tutorialList[i] = new tutorial();
+            this.tutorialList[i] = new Tutorial();
         }
     }
-    public course() {
+    public Course() {
         courseName = null;
         title = null;
         lectureList = null;
