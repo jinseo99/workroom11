@@ -1,19 +1,20 @@
+
 public class Tutorial {
 
 	
 	private int tutorialNum;
-	private int capacity;
+	private int seats;
 	private int seatsFilled;
 	private String instructor;
-	private Occurance[] occuranceList;
+	private Occurance[] occurances;
 	
 	public Tutorial(int tutorialNum, int capacity, int seatsFilled,
-			String instructor, Occurance[] occuraseList)
+			String instructor, Occurance[] occurases)
 	{
 	   this.tutorialNum=tutorialNum;
-	   this.capacity=capacity;
+	   this.seats=capacity;
 	   this.instructor=instructor;
-	   this.occuranceList=occuranceList;
+	   this.occurances=occurances;
 	   this.seatsFilled=seatsFilled;
 	}
 }
