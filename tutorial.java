@@ -9,7 +9,7 @@ public class Tutorial {
 	private Occurrences[] occurances;
 	
 	public Tutorial(int tutorialNum, int capacity, int seatsFilled,
-			String instructor, Occurrences[] occurases)
+			String instructor, Occurrences[] occurances)
 	{
 	   this.tutorialNum = tutorialNum;
 	   this.seats = capacity;
