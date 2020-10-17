@@ -8,8 +8,11 @@ public class gui{
        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
        frame.setSize(800,800);
 
+       // Initiate object instance of Student class
+       Student std1 = new Student();
+
        // Define the various options used
-       String coursesOptions[] = {"Math", "Science", "Biology"};
+       String coursesOptions[] = Student.getCourses();
        String lectureOptions[] = {"Lecture 1", "Lecture 2"};
        String tutorialOptions[] = {"Tutorial 1", "Tutorial 2"};
 
