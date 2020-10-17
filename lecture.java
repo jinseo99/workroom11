@@ -1,5 +1,5 @@
 
-public class Lecture {
+public class lecture {
 
 	private int sectionNumber;
 	private int seats;
@@ -7,7 +7,7 @@ public class Lecture {
 	private String instructor;
 	private Occurance[] occurances;
 	
-	public Lecture(int sectionNumber, int capacity, int seatsFilled,
+	public lecture(int sectionNumber, int capacity, int seatsFilled,
 			String instructor, Occurance[] occurases)
 	{
 	   this.sectionNumber=sectionNumber;
