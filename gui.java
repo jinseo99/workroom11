@@ -9,12 +9,12 @@ public class gui{
        frame.setSize(800,800);
 
        // Initiate object instance of Student class
-       Student std1 = new Student();
+       Controller allData = new Controller();
 
        // Define the various options used
-       String coursesOptions[] = Student.getCourses();
-       String lectureOptions[] = {"Lecture 1", "Lecture 2"};
-       String tutorialOptions[] = {"Tutorial 1", "Tutorial 2"};
+       String coursesOptions[] = allData.getCourses();
+       String lectureOptions[] = allData.getLectures();
+       String tutorialOptions[] = allData.getTutorials();
 
        // Create Combo Box instances of the selections
        JComboBox courses = new JComboBox(coursesOptions);
