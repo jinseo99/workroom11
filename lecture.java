@@ -1,18 +1,19 @@
+
 public class Lecture {
 
-	private int lectureNum;
-	private int capacity;
+	private int sectionNumber;
+	private int seats;
 	private int seatsFilled;
 	private String instructor;
-	private Occurance[] occuranceList;
+	private Occurance[] occurances;
 	
-	public Lecture(int lectureNum, int capacity, int seatsFilled,
-			String instructor, Occurance[] occuraseList)
+	public Lecture(int sectionNumber, int capacity, int seatsFilled,
+			String instructor, Occurance[] occurases)
 	{
-	   this.lectureNum=lectureNum;
-	   this.capacity=capacity;
+	   this.sectionNumber=sectionNumber;
+	   this.seats=capacity;
 	   this.instructor=instructor;
-	   this.occuranceList=occuranceList;
+	   this.occurances=occurances;
 	   this.seatsFilled=seatsFilled;
 	}
 	
